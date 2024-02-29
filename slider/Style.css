@@ -55,7 +55,7 @@ header a {
 .carousel .list .item .author {
   font-weight: bold;
   letter-spacing: 10px;
-  color: darkorange;
+  color: rgb(233, 73, 15);
 }
 .carousel .list .item .title,
 .carousel .list .item .topic {
@@ -64,7 +64,7 @@ header a {
   list-style: 1.3em;
 }
 .carousel .list .item .topic {
-  color: lightgreen;
+  color: rgb(76, 245, 76);
 }
 .carousel .list .item .buttons {
   display: grid;
@@ -75,7 +75,7 @@ header a {
 }
 .carousel .list .item .buttons button {
   border: none;
-  background-color: #000;
+  background-color: rgb(233, 73, 15);
   color: #fff;
   letter-spacing: 3px;
   font-weight: 500;
@@ -226,7 +226,7 @@ header a {
   z-index: 1000;
   width: 0;
   height: 3px;
-  background-color: green;
+  background-color: rgb(76, 245, 76);
   left: 0;
   top: 0;
 }
